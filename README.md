@@ -67,26 +67,5 @@ The program will display:
 
 ---
 
-## 👨‍💻 Author
 
-**Vijay Kanade**  
-🎓 Diploma in Computer Engineering  
-📧 Email: vijay1234nkanade@gmail.com  
-
----
-
-## 🏁 Future Improvements
-
-- Deploy the model using Streamlit or Flask  
-- Use real-time customer data  
-- Add better visualization dashboards
-
----
-
-## 🪪 License
-
-This project is open-source and free to use for educational purposes.
-
-
-The dataset used in this project contains the following columns:
 # credit-score-prediction
